@@ -127,17 +127,3 @@
 //     result=num1/num2
 // }
 // console.log(`${num1} ${operator} ${num2} = ${result}`)
-
-
-//11.
-
-
-let x = ["java","js"];
-let y = ["java"];
-let z = ["java"];
-
-let combinearray = x.concat(y, z);
-console.log(combinearray);
-
-let combineWithSpread = [...x, ...y, ...z];
-console.log(combineWithSpread);
