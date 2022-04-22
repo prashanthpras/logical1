@@ -141,9 +141,3 @@ console.log(combinearray);
 
 let combineWithSpread = [...x, ...y, ...z];
 console.log(combineWithSpread);
-
-// let com=[`${x}`,`${y}`,`${z}`]
-// console.log(com)
-
-// let c=[x,y,z]
-// console.log(c)
